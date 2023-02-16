@@ -89,12 +89,14 @@ footer {
   text-align: center;
 }
 
-.buy-btn, .info-btn, .about-btn, .contact-btn{
+.format-btn{
     padding: 10px 19px;
     border-radius: 4.6px;
     font-weight: 500;
     text-decoration: none;
     margin-right: 5px;
+    margin-top: 10px; 
+    display: inline-block;
 }  
 
 .buy-btn{
